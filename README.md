@@ -7,7 +7,9 @@ Bu repo [Kodluyoruz Sayfamız](https://www.kodluyoruz.org/) Front-End Eğitimind
 
 # Kodluyoruz İlk Repo
 Öncelikle projeyi clonelayın.
-``` bash git clone https://github.com/ersinaka/kodluyoruzilkrepo.git```
+
+``` git clone https://github.com/ersinaka/kodluyoruzilkrepo.git 
+```
 
 # Usage
 Projeyi clonladıktan sonra Visual Studio Code programını açınız.
